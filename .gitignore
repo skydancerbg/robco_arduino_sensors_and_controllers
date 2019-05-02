@@ -30,3 +30,5 @@
 *.exe
 *.out
 *.app
+
+Control_Candy_Dispenser_ROS/\.vscode/ipch/512c287eef144c30/main\.ipch
